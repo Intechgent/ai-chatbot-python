@@ -21,6 +21,7 @@ A Python-based AI chatbot that provides career guidance, internship advice, and 
 ```bash
 git clone https://github.com/Intechgent/ai-chatbot-python.git
 ```
+ Use `streamlit run app.py` in the terminal to launch the chatbot interface in your browser.
 ## Screenshot
 
 ![Chatbot Screenshot](screenshot.png)
