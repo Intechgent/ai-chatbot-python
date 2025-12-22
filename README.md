@@ -19,7 +19,7 @@ A Python-based AI chatbot that provides career guidance, internship advice, and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ai-chatbot-python.git
+git clone https://github.com/Intechgent/ai-chatbot-python.git
 ```
 ## Screenshot
 
